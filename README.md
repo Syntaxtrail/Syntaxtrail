@@ -81,10 +81,10 @@ We're always looking for passionate developers to join our mission. Here's how y
 ## 📈 Our Impact
 
 ```
-Contributors: 0
-Open Source Projects: 0
-GitHub Stars: 0
-Discord Members: 0
+Contributors: 3
+Open Source Projects: 1
+GitHub Stars: 1
+WhatsApp Channel Members: 125
 ```
 
 ## 🎨 Design Philosophy
