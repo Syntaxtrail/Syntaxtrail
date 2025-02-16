@@ -81,10 +81,10 @@ We're always looking for passionate developers to join our mission. Here's how y
 ## 📈 Our Impact
 
 ```
-Contributors: 500+
-Open Source Projects: 50+
-GitHub Stars: 10k+
-Discord Members: 5k+
+Contributors: 0
+Open Source Projects: 0
+GitHub Stars: 0
+Discord Members: 0
 ```
 
 ## 🎨 Design Philosophy
